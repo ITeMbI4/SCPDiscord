@@ -1086,7 +1086,7 @@ team:
 
 botmessages:
     connectedtobot:
-        message: "```diff\n+SCP:SL сервер подключён.```"
+        message: "```diff\n+ SCP:SL сервер подключён.```"
         regex: []
     reconnectedtobot:
         message: "```diff\n+ SCP:SL сервер переподключён.```"
